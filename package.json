@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://jason-czar.github.io/tweb/",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "start": "vite --force",
